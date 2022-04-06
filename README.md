@@ -3,7 +3,7 @@
 Simple html recipes site.
 
 Made with basic html elements such as:
-	- pharagraphs
+	- paragraphs
 	- lists
 	- headings
 	- bold/strong
@@ -21,7 +21,7 @@ It is important to write html boilerplate which consists of:
 	- body element which consists of all the text and
 	  elements that user of the web site sees
 
-Some atributes are also important:
+Some attributes are also important:
 	- lang for setting used language
 	- charset for defining char format
 	- alt for better accessibility
